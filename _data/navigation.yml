@@ -1,8 +1,8 @@
-- name: What is PISM
+- name: About
   link: /#
   dropdown:
     - name: Overview
-      link: 
+      link: overview/
     - name: Basic Applications
       link: 
     - name: Application of the Month
@@ -11,7 +11,7 @@
       link: 
     - name: Developers Team
       link: 
-- name: How to Use PISM
+- name: Usage
   link: /#
   dropdown:
     - name: Online Manual
@@ -22,19 +22,24 @@
       link: 
     - name: Further Tools
       link: 
-    - name: Cite PISM
+    - name: Citing PISM
       link: https://github.com/pism/pism/blob/master/ACKNOWLEDGE.rst
-- name: How to Get PISM
+- name: Download
   link: /#
   dropdown:
     - name: Get Code on Github
-    - link: https://github.com/pism/
+      link: https://github.com/pism/pism/
+- name: Contributing
+  link: /#
+  dropdown:
+    - name: Contribute to PISM
+      link: contribute/
 - name: More
   link: /#
   dropdown:
     - name: Brief History
-      link: 
+      link: history/
     - name: MIPs / Collaborations
       link: 
     - name: Map of Users
-      link: 
+      link: usersmap/
